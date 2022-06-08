@@ -1,5 +1,5 @@
 # Svergies alla postnummer
-Alla Sveriges postnummer samt vilka dagar ett postnummer har varannandagsutdelning.
+Alla Sveriges postnummer.
 
 --- 
 
